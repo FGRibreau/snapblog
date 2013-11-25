@@ -1,0 +1,4 @@
+snapblog
+========
+
+Snapshat for blogs.
